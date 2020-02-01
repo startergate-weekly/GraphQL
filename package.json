@@ -1,8 +1,8 @@
 {
-  "name": "koa-typescript-boilerplate",
-  "description": "Boilerplate for Koa.js Server using TypeScript",
+  "name": "graphql",
+  "description": "learn graphql",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/src/index.ts",
   "dependencies": {
     "@types/koa": "^2.0.51",
     "@types/koa-bodyparser": "^4.3.0",
