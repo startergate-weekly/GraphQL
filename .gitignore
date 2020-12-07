@@ -194,3 +194,4 @@ public/
 dist/
 
 src/modules/dbInfo.ts
+.idea/GraphQL.iml
